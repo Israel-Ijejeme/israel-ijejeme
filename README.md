@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=israel-ijejeme&color=0e75b6)
 ![GitHub followers](https://img.shields.io/github/followers/israel-ijejeme?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social) <!-- Remove if not on Twitter -->
+![Twitter Follow](https://x.com/israeldevs?s=21) <!-- Remove if not on Twitter -->
 
 ## 🚀 About Me
 

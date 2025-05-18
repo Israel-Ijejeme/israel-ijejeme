@@ -23,7 +23,7 @@ I'm a **Full Stack Web Developer** and the founder of **Nexus Web Development Ag
 ## 📫 Get in Touch
 
 - 🤳 [Tiktok](https://www.tiktok.com/@israeldevsonx?is_from_webapp=1&sender_device=pc)  
-- 🌍 [Portfolio Website]([https://your-portfolio.com)](https://israel-ijejeme.github.io/portfolio-website/)  
+- 🌍 [Portfolio](https://israel-ijejeme.github.io/portfolio-website/)
 - 📩 [Email](mailto:ijejemeisrael@gmail.com)
 
 ---
